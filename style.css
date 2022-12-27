@@ -193,7 +193,7 @@ span{
 .portfolio{
     padding-top: 100px;
 }
-.portfolio-conttainer{
+.portfolio-container{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(350px, auto));
     grid-gap: 2rem;
@@ -211,51 +211,51 @@ span{
     cursor: pointer;
 }
 .box-one{
-    background: linear-gradient(rgba(0, 0, 0, 0.7))rgba(0, 0, 0, 0.7), url(../img/work1.jpg)  center center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url(img/mh1.jpeg)  center center no-repeat;
     background-size: 500px;
 }
 .box-one:hover{
-    background: linear-gradient(rgba(0, 0, 0, 0.7))rgba(0, 0, 0, 0.7), url(../img/work1.jpg) left center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url(img/mh1.jpeg) left center no-repeat;
     background-size: 600px;
 }
 .box-two{
-    background: linear-gradient(rgba(0, 0, 0, 0.3))rgba(0, 0, 0, 0.3), url(../img/work1.jpg) center center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.3)), url(img/mh2.jpeg) center center no-repeat;
     background-size: 500px;
 }
 .box-two:hover{
-    background: linear-gradient(rgba(0, 0, 0, 0.7))rgba(0, 0, 0, 0.7), url(../img/work1.jpg) left center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url(img/mh2.jpeg) left center no-repeat;
     background-size: 600px;
 }
 .box-three{
-    background: linear-gradient(rgba(0, 0, 0, 0.3))rgba(0, 0, 0, 0.3), url(../img/work1.jpg) center center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.3)), url(img/mh3.jpg) center center no-repeat;
     background-size: 500px;
 }
 .box-three:hover{
-    background: linear-gradient(rgba(0, 0, 0, 0.7))rgba(0, 0, 0, 0.7), url(../img/work1.jpg) left center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url(img/mh3.jpg) left center no-repeat;
     background-size: 600px;
 }
 .box-four{
-    background: linear-gradient(rgba(0, 0, 0, 0.3))rgba(0, 0, 0, 0.3), url(../img/work1.jpg) center center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.3)), url(img/mh4.jpeg) center center no-repeat;
     background-size: 500px;
 }
 .box-four:hover{
-    background: linear-gradient(rgba(0, 0, 0, 0.7))rgba(0, 0, 0, 0.7), url(../img/work1.jpg) left center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url(img/mh4.jpeg) left center no-repeat;
     background-size: 600px;
 }
 .box-five{
-    background: linear-gradient(rgba(0, 0, 0, 0.3))rgba(0, 0, 0, 0.3), url(../img/work1.jpg) center center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.3)), url(img/mh5.jpg) center center no-repeat;
     background-size: 500px;
 }
 .box-five:hover{
-    background: linear-gradient(rgba(0, 0, 0, 0.7))rgba(0, 0, 0, 0.7), url(../img/work1.jpg) left center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url(img/mh5.jpg) left center no-repeat;
     background-size: 600px;
 }
 .box-six{
-    background: linear-gradient(rgba(0, 0, 0, 0.3))rgba(0, 0, 0, 0.3), url(../img/work1.jpg) center center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.3)), url(img/mh6.jpeg) center center no-repeat;
     background-size: 500px;
 }
 .box-six:hover{
-    background: linear-gradient(rgba(0, 0, 0, 0.7))rgba(0, 0, 0, 0.7), url(../img/work1.jpg) left center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url(img/mh6.jpeg) left center no-repeat;
     background-size: 600px;
 }
 .linner{
